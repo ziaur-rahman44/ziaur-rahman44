@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ziaur Rahman
-- 👀 I’m interested in Coding and lerning new technology
+- 👀 I’m interested in Coding and learning new technology
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on jr frondend developer job.
 
